@@ -581,7 +581,6 @@ td a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 70px;
 }
 
 .slider-item {
@@ -606,4 +605,8 @@ td a:hover {
     width: 30px;
     transform-origin: left;
     background-color: #5454D4;
+}
+
+footer {
+    padding-bottom: 70px;
 }
