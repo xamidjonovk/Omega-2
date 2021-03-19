@@ -41,6 +41,11 @@ a {
     padding-bottom: 220px;
 }
 
+.navbar {
+    width: 1300px;
+    margin: 0 auto;
+}
+
 .nav-list {
     display: flex;
     margin-left: 20px;
